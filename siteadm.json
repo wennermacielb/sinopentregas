@@ -1,0 +1,12 @@
+{
+  "users": {
+    "UID_REAL_DO_USUARIO_1": {
+      "nome": "João",
+      "sobrenome": "Silva"
+    },
+    "UID_REAL_DO_USUARIO_2": {
+      "nome": "Maria",
+      "sobrenome": "Santos"
+    }
+  }
+}
